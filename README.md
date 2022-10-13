@@ -13,7 +13,7 @@ I'm Leonardo Volpato, I'm a PhD. in Genetics and Plant Breeding 👨‍💻 who 
 -  ⚡ Languages: R, Python, QGIS, ArcGIS
 
 
-> El Psy Kongroo
+
 
 
 
