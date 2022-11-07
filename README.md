@@ -6,9 +6,9 @@
 ## Hi 👋, 
 I'm Leonardo Volpato, I'm a PhD. in Genetics and Plant Breeding 👨‍💻 who is passionate about data science, phenomics and genomics. 
 
-- 🔭 I’m currently working on ML adn DL models
+- 🔭 I’m currently working on HTP using ML adn DL models
 - 🌱 I’m currently learning Python
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: Plant breeding, phenotyping and tech. 
 - 😄 Pronouns: he/him
 -  ⚡ Languages: R, Python, QGIS, ArcGIS
 
